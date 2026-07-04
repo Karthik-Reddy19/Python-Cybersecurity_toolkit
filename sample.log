@@ -1,0 +1,7 @@
+2026-07-03 09:00:01 INFO Server started
+2026-07-03 09:01:10 WARNING CPU usage is high
+2026-07-03 09:02:45 ERROR Database connection failed
+2026-07-03 09:03:15 INFO User login successful
+2026-07-03 09:04:20 ERROR Disk full
+2026-07-03 09:05:00 WARNING Low memory
+2026-07-03 09:06:15 INFO Backup completed
